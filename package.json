@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/massimo-cassandro/grabbable2/issues"
   },
-  "homepage": "https://github.com/massimo-cassandro/grabbable2#readme"
+  "homepage": "https://github.com/massimo-cassandro/grabbable2#readme",
+  "devDependencies": {
+    "eslint": "^7.28.0"
+  }
 }
